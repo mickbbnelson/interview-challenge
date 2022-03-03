@@ -1,9 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import PeopleContainer from './components/peopleContainer'
 
 function App() {
   return (
-    <></>
+    <>
+    <PeopleContainer />
+    </>
   );
 }
 
