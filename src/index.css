@@ -1,5 +1,9 @@
 .person-card {
     width: 310px;
     height: 325px;
-    border: 1px solid black
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3)
+}
+
+.person-card:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3)
 }
