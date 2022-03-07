@@ -1,10 +1,10 @@
 import './App.css';
-import PeopleContainer from './components/peopleContainer'
+import ItemsContainer from './components/itemsContainer'
 
 function App() {
   return (
     <>
-    <PeopleContainer />
+    <ItemsContainer />
     </>
   );
 }
